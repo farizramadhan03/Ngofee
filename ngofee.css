@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    background-color: #131313 !important;
+    font-weight: 500;
+}
+
+.navbar .navbar-brand {
+    font-weight: 700;
+}
+
+.navbar .nav-link {
+    font-weight: 500;
+    color: white;
+    text-transform: uppercase;
+}
+
+.hero .card-title {
+    margin-top: 100px;
+}
+
+.menu {
+    background-color: white;
+}
+
+.menu .section-title {
+    font-weight: 700;
+    color: #131313;
+}
+
+.menu .section-paragragh {
+    color: #131313;
+}
+
+.menu .card {
+    background-color: #131313;
+    color: white;
+}
+
+.menu .card .card-title {
+    margin-top: 20px;
+    font-weight: 500;
+}
+
+.menu .card img {
+    border: 2px solid white;
+}
+
+.menu .card .btn {
+    font-weight: 700;
+}
+
+.testimoni {
+    background-image: url('../assets/image/testimoni.jpg');
+    background-size: cover;
+    height: 1000px;
+}
+
+.testimoni img{
+    margin-top: 50px;
+    width: 150px;
+}
+
+.testimoni .blockquote {
+    font-weight: 500;
+}
+
+.testimoni .blockquote-footer {
+    font-weight: 700;
+    font-size: 20px;
+}
+
+footer {
+    background-color: #131313;
+}
